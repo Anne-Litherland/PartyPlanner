@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+h1 {
+    text-align: center;
+    padding: 1rem;
+}
+
+main {
+    display: grid;
+    gap: 1rem;
+}
+
+section {
+    padding: 0 1rem;
+}
+
+.event {
+    list-style: none;
+}
